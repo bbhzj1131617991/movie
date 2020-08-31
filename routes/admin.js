@@ -27,8 +27,5 @@ router.get('/hot/create',HotController.create)
 //添加热映处理
 // router.post('/hot/stor',HotController.create)
 
-
-
-
  //导出这个模块 在主函数（模块）中有使用 
 module.exports = router;
